@@ -21,4 +21,4 @@ Spearheaded an AWS modernization program that resulted in a 20% increase in appl
 Drove a successful enterprise application launch that boosted user satisfaction by 12% and adoption by 15%.
 
 📫 Connect with Me
-LinkedIn [Profile](https://www.linkedin.com/in/williamwoo99/) | Personal shin-woo.com
+LinkedIn [Profile](https://www.linkedin.com/in/williamwoo99/) | williamwoo@shin-woo.com 
